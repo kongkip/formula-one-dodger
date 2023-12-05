@@ -11,6 +11,11 @@ Formula One Dodger is a simple, yet engaging game developed using Pygame, a set 
 - **Speed Display**: The game shows the current speed of obstacles.
 - **Collision Detection**: The game ends when your car collides with an obstacle.
 
+Here's a look at the game:
+
+![Formula One Dodger Screenshot](screenshots/screenshot_1.png)
+
+
 ## Requirements
 To run this game, you will need:
 - Python 3.x
