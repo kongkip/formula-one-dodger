@@ -29,10 +29,8 @@ pip install pygame
 To start the game, run the Python script. You can use an IDE or the command line to do this. If using the command line, navigate to the folder containing the game's script and type:
 
 ```
-python formula_one_dodger.py
+python main.py
 ```
-
-Replace `formula_one_dodger.py` with the name of your Python script if it's different.
 
 ## Controls
 - **Left Arrow Key**: Move the player car to the left.
