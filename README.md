@@ -1,5 +1,5 @@
 
-# README for Formula One Dodger Game
+Formula One Dodger Game
 
 ## Overview
 Formula One Dodger is a simple, yet engaging game developed using Pygame, a set of Python modules designed for writing video games. In this game, the player controls a car that must dodge incoming obstacles. The game increases in difficulty as the player's score increases, with the speed of incoming obstacles gradually increasing.
